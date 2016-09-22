@@ -1,2 +1,2 @@
-# ac-2016-todo
+# Angular Connect 2016 Workshop
 ToDo App for the Angular Connect 2016 Workshop
